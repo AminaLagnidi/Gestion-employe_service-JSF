@@ -1,21 +1,23 @@
-##DataBase  
+## DataBase  
 ![base2](https://github.com/AminaLagnidi/TpJSF1/assets/146132357/12bcaa8a-27cb-494d-8b87-de8c5a4c54f7)  
-##Authentification  
+## Authentification  
 ![auth](https://github.com/AminaLagnidi/TpJSF1/assets/146132357/ae955ba3-bcd1-45f6-92e7-ac75ba27dec4)  
-##Statistiques  
+## Statistiques  
 ![stati](https://github.com/AminaLagnidi/TpJSF1/assets/146132357/46d57e74-1f9f-41e5-b8f6-0b5f14fdeeca)
 
 
 
-##ServiceForm  
+## ServiceForm  
 
 
 https://github.com/AminaLagnidi/TpJSF1/assets/146132357/b6ce5687-2713-4893-98dc-785e06484754
 
 
+## Employées form
+![image](https://github.com/AminaLagnidi/TpJSF1/assets/146132357/5beda9e9-446a-41a7-9420-68c1ed7004b4)
 
 "# TpJSF1"   
-##Fonctionalité et Technologies  
+## Fonctionalité et Technologies  
 Un projet JSF (JavaServer Faces) avec Hibernate combine les fonctionnalités de JSF pour la gestion de l'interface utilisateur (UI) et d'Hibernate pour la persistance des données dans une base de données relationnelle. Voici un aperçu des fonctionnalités et des technologies généralement utilisées dans un tel projet :
 
 . *JSF (JavaServer Faces) :*
