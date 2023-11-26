@@ -36,10 +36,4 @@ Un projet JSF (JavaServer Faces) avec Hibernate combine les fonctionnalités de 
 . *Serveur d'application :*
    - *GlassFish
 
-
-7. *Autres technologies :*
-   - *JSP (JavaServer Pages) :* Utilisé parfois en conjonction avec JSF pour la gestion des vues.
-   - *Bean Validation :* Pour la validation des données côté serveur.
-   - *Logging (par exemple, log4j) :* Pour la journalisation des événements.
-
-L'architecture générale de ce type de projet implique l'utilisation de ces technologies de manière intégrée pour créer des applications web robustes, modulaires et extensibles.
+L'architecture générale de ce projet implique l'utilisation de ces technologies de manière intégrée pour créer des applications web robustes, modulaires et extensibles.
