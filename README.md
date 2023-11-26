@@ -14,11 +14,13 @@ https://github.com/AminaLagnidi/TpJSF1/assets/146132357/b6ce5687-2713-4893-98dc-
 
 
 ## Employées form
-![image](https://github.com/AminaLagnidi/TpJSF1/assets/146132357/86cb3ed0-de44-469b-a9c0-073a2f8b19bf)
+![image](https://github.com/AminaLagnidi/TpJSF1/assets/146132357/71f425e3-84e2-4b99-8f4d-d4a9098a8f05)
 
-![image](https://github.com/AminaLagnidi/TpJSF1/assets/146132357/e8b4ee85-6296-496f-a57b-16b5b969ece5)
+![image](https://github.com/AminaLagnidi/TpJSF1/assets/146132357/4732f870-de7a-41e5-859a-fbbdbad9aabf)
 
+![image](https://github.com/AminaLagnidi/TpJSF1/assets/146132357/41d70816-1719-4b38-ab2a-1a4bf5cff8ed)
 
+![image](https://github.com/AminaLagnidi/TpJSF1/assets/146132357/7682c1b5-b502-4cf3-9a8c-6dfeb5cda6b0)
 
 "# TpJSF1"   
 ## Fonctionalité et Technologies  
