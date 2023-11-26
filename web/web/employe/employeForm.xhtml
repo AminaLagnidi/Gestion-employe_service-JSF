@@ -158,10 +158,11 @@
                                             <h:outputText value="#{employe.service.nom}" />
                                         </f:facet>
                                         <f:facet name="input">
-                                            <p:selectOneMenu value="#{employe.service.id}" style="width:100%">
-                                                <f:selectItems value="#{serviceBean.services}" var="s"
-                                                               itemLabel="#{s.nom}" itemValue="#{s.id}" />
-                                            </p:selectOneMenu>
+                                           <p:selectOneMenu value="#{employe.service.id}" style="width:100%">
+    <f:selectItems value="#{serviceBean.services}" var="s"
+        itemLabel="#{s.nom}" itemValue="#{s.id}" />
+</p:selectOneMenu>
+
                                         </f:facet>
                                     </p:cellEditor>
                                 </p:column>
