@@ -3,11 +3,16 @@
 ##Authentification  
 ![auth](https://github.com/AminaLagnidi/TpJSF1/assets/146132357/ae955ba3-bcd1-45f6-92e7-ac75ba27dec4)  
 ##Statistiques  
-![Uploading stati.png…]()  
+![stati](https://github.com/AminaLagnidi/TpJSF1/assets/146132357/46d57e74-1f9f-41e5-b8f6-0b5f14fdeeca)
+
 
 
 ##ServiceForm  
-https://github.com/AminaLagnidi/TpJSF1/assets/146132357/bc4e098c-2464-4f41-b9c1-0f13b945c518
+
+
+https://github.com/AminaLagnidi/TpJSF1/assets/146132357/b6ce5687-2713-4893-98dc-785e06484754
+
+
 
 "# TpJSF1"   
 ##Fonctionalité et Technologies  
